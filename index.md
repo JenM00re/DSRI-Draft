@@ -2,6 +2,7 @@
 title: DSRI-Draft
 layout: default
 ---
+![Sunset at Haleakala](PanoSunsetHaleakala.jpg)
 
 ## About
 
