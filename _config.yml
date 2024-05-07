@@ -1,8 +1,6 @@
 title: DSRI-Draft # The top-level website title
 description: A sandbox to learn how to develop accessibly in Github # A tagline that usually appears in your site header
 
-![Sunset at Haleakala](PanoSunsetHaleakala.jpg)
-
 remote_theme: pages-themes/cayman@v0.2.0 # Establishes a theme
 plugins:
 - jekyll-remote-theme # can have multiple plugins, so each needs to go on a different line
